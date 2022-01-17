@@ -66,4 +66,4 @@ async def Hello(ctx):
     await ctx.send(f'{random.choice(responses)} ')
 #tempban
 
-bot.run('ODQ4NzkyNzMyMDIwMzc1NTky.YLRx1Q.KPPPD86FLfhedL2pCZsgOCgD-hw')
+bot.run('TOKEN')
