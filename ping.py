@@ -12,4 +12,4 @@ async def ping(ctx):
 async def coinflip(ctx):
     responses  = ['Heads','Tails']
     await ctx.send(f'{random.choice(responses)} ')
-bot.run('ODQ4NzkyNzMyMDIwMzc1NTky.YLRx1Q.KPPPD86FLfhedL2pCZsgOCgD-hw')
+bot.run('')
