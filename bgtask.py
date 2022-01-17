@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 from discord.ext import tasks
 from itertools import cycle
-TOKEN = 'ODQ4NzkyNzMyMDIwMzc1NTky.YLRx1Q.KPPPD86FLfhedL2pCZsgOCgD-hw'
+TOKEN = ''
 bot = commands.Bot(command_prefix='+')
 status=cycle(['BattleGrounds-(CharId:-5104046940)','BattleGrounds'])
 @bot.event
