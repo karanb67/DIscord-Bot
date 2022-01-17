@@ -1,6 +1,6 @@
 import discord
 from discord.ext import commands
-TOKEN = 'ODQ4NzkyNzMyMDIwMzc1NTky.YLRx1Q.KPPPD86FLfhedL2pCZsgOCgD-hw'
+TOKEN = ''
 intents = discord.Intents(messages = True, guilds = True, reactions = True, members = True, presences = True)
 bot = commands.Bot(command_prefix = '+', intents = intents)
 @bot.event
