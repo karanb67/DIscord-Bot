@@ -14,4 +14,4 @@ class DurationConverter(commands.Converter):
             return (int(amount),unit)
         raise commands.BadArgument(message)
 
-bot.run('ODQ4NzkyNzMyMDIwMzc1NTky.YLRx1Q.KPPPD86FLfhedL2pCZsgOCgD-hw')
+bot.run('')
