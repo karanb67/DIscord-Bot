@@ -14,4 +14,4 @@ async def _8ball(ctx, *,question):
     responses=['hey','hello','sdjhtfgiusd']
             await ctx.send(f'Ques:{question}\nAnswer:{random.choice(responses)}')
             
-bot.run('ODQ4NzkyNzMyMDIwMzc1NTky.YLRx1Q.KPPPD86FLfhedL2pCZsgOCgD-hw')
+bot.run('')
